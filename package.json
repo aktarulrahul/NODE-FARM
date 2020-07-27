@@ -1,0 +1,17 @@
+{
+  "name": "air-farm",
+  "version": "1.0.0",
+  "description": "Leaarning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
